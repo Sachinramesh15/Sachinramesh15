@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Apache Kafka, OpenTofu/Terraform**
 
-- 💬 Ask me about **FastAPI, SQL, AWS/GCP, Tensorflow, Flutter/Dart**
+- 💬 Experience in **FastAPI, SQL, AWS/GCP, Tensorflow, Flutter/Dart**
 
 - 📫 How to reach me: **sachinramesh1502@gmail.com**
 
